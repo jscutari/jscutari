@@ -7,12 +7,9 @@ Previously a Software Engineering Intern at Qorvo, where I worked on internal en
 ---
 
 ## Project Highlights
-
 - **[AssemblyLab](https://github.com/jscutari/CPU-Assembly-Lab)** — full-stack CPU and assembly simulator
-- **[Not Clickbait]([https://github.com/jscutari/CPU-Assembly-Lab])** — machine learning application for headline classification
+- **[Not Clickbait](https://github.com/jscutari/Not-Clickbait)** — machine learning application for headline classification
 - Interested in building software at the intersection of systems, data, and ML
-
----
 
 ## Tech Stack
 
