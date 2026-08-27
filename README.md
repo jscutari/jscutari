@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7BAFD4&width=600&lines=Hi%2C+I'm+Jack!+👋;CS+%2B+Statistics+%40+UNC+Chapel+Hill)](https://git.io/typing-svg)
+<!--
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7BAFD4&width=600&lines=Hi%2C+I'm+Jack!+👋;CS+%2B+Statistics+%40+UNC+Chapel+Hill)](https://git.io/typing-svg)
+-->
 
 I'm a Computer Science and Statistics student at UNC Chapel Hill interested in software engineering, data science, and machine learning.
 
