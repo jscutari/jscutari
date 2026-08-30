@@ -1,11 +1,10 @@
 <!--
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7BAFD4&width=600&lines=Hi%2C+I'm+Jack!+👋;CS+%2B+Statistics+%40+UNC+Chapel+Hill)](https://git.io/typing-svg)
 -->
-
-I'm a Computer Science and Statistics student at UNC Chapel Hill interested in software engineering, data science, and machine learning.
-
-Previously a Software Engineering Intern at Qorvo, where I worked on internal engineering tools and automation for semiconductor test operations.
-
+ CS + Statistics @ UNC-Chapel Hill
+ 
+ [jackscutari.dev](https://jackscutari.dev)
+ 
 ---
 
 ## Project Highlights
@@ -45,12 +44,6 @@ Previously a Software Engineering Intern at Qorvo, where I worked on internal en
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## Personal Interests
-
-I enjoy playing acoustic guitar, listening to music, and spending time outdoors.
 
 ---
 
