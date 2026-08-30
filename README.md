@@ -10,7 +10,6 @@
 ## Project Highlights
 - **[AssemblyLab](https://github.com/jscutari/CPU-Assembly-Lab)** — full-stack CPU and assembly simulator
 - **[Not Clickbait](https://github.com/jscutari/Not-Clickbait)** — machine learning application for headline classification
-- Interested in building software at the intersection of systems, data, and ML
 
 ## Tech Stack
 
@@ -49,5 +48,7 @@
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/Website-jackscutari.dev-000000?style=flat&logo=safari&logoColor=white)](https://jackscutari.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jackscutari-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackscutari)
 [![GitHub](https://img.shields.io/badge/GitHub-jscutari-181717?style=flat&logo=github&logoColor=white)](https://github.com/jscutari)
+ 
